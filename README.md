@@ -1,6 +1,6 @@
 # nlp-homework
 
-The code for this NLP homework can be viewed [Here]()
+The code for this NLP homework can be viewed [Here](https://github.com/themichaelfoley/nlp-homework/blob/main/Starter_Code/crypto_sentiment.ipynb)
 
 
 
